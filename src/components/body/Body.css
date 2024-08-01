@@ -1,0 +1,19 @@
+.container {
+  padding-top: 100px;
+  padding-left: 150px;
+}
+
+.nameText {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.jobTitleText {
+  font-size: 20px;
+  opacity: 50%;
+  font-weight: 700;
+}
+
+.text {
+  font-size: 60px;
+}

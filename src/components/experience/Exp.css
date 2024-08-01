@@ -1,0 +1,46 @@
+.Exp {
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-bottom: 30px;
+  width: 700px;
+}
+
+.myExp {
+  font-size: 50px;
+  font-weight: 300;
+}
+
+.expDesc {
+  opacity: 60%;
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.positions {
+  width: 1100px;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.position {
+  margin-top: 50px;
+  width: 250px;
+  /* padding-right: 50px; */
+  /* margin-right: 50px; */
+}
+
+.positionName {
+  display: block;
+}
+.positionAt {
+  display: block;
+  font-size: 24px;
+  opacity: 60%;
+}
+.expYears {
+  font-size: 12px;
+  opacity: 90%;
+  display: block;
+}
